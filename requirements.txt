@@ -45,7 +45,6 @@ websockets==8.1
 wrapt==1.12.1
 yarl==1.6.3
 zope.interface==5.2.0
-<<<<<<< HEAD
 ilyachuiko@ip-192-168-1-47 hookahbot % pip freeze requirements.txt
 aiofiles==0.6.0
 aiohttp==3.7.3
